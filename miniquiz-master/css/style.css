@@ -1,11 +1,16 @@
 h1, h2, h3, p, a, li {
-    font-family: italic; 
+    font-family: 'Oswald', sans-serif; ; 
     color: lightcoral; 
 }
 
 h1 {
-
+font-family: 'Oswald', sans-serif;
 }
+.app { 
+width: 70%;
+max-width: 800px;
+margin: auto;
+ }
 
 li, p.clickable {
 	cursor: pointer;
