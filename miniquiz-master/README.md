@@ -1,4 +1,4 @@
-#sarah's mini quiz
+# sarah's mini quiz
 
 ## A quiz game. 
 

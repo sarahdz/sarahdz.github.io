@@ -1,5 +1,6 @@
 h1, h2, h3, p, a, li {
-    font-family: sans-serif;
+    font-family: italic; 
+    color: lightcoral; 
 }
 
 h1 {
@@ -15,9 +16,16 @@ li .not-selected {
 }
 
 li .selected {
-    
+    text-decoration: underline; 
+    color:mediumturquoise;
+
+ ; 
 }
 
 li .correct {
-    
+	color: springgreen; 
+ 
+}
+li .incorrect {
+	color:darkred;
 }
