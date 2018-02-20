@@ -1,0 +1,23 @@
+h1, h2, h3, p, a, li {
+    font-family: sans-serif;
+}
+
+h1 {
+
+}
+
+li, p.clickable {
+	cursor: pointer;
+}
+
+li .not-selected {
+    
+}
+
+li .selected {
+    
+}
+
+li .correct {
+    
+}
